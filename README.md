@@ -14,13 +14,17 @@ When transferring photos from an iPhone to a PC, Windows often struggles to open
 
 ---
 
+> You can download the pre-compiled standalone executable directly from the [Releases](https://github.com/mohrezkhorasani/heic-converter/releases) page without needing Python installed.
+
+---
+
 ## نحوه استفاده (Usage)
 
 ### ۱. استفاده از فایل آماده (بدون نیاز به پایتون)
-- فایل اجرایی `HEIC_Converter.exe` را اجرا کنید.
-- برنامه به صورت خودکار دو پوشه به نام‌های **ورودی** و **خروجی** در کنار خود ایجاد می‌کند.
+- فایل `HEIC_Converter.exe` را از بخش [Releases](https://github.com/mohrezkhorasani/heic-converter/releases) دانلود کنید.
+- برنامه را اجرا کنید؛ در اولین اجرا به صورت خودکار دو پوشه به نام‌های **ورودی** و **خروجی** در کنار فایل ساخته می‌شود.
 - عکس‌های `.heic` را در پوشه **ورودی** کپی کنید و برنامه را اجرا کنید.
-- فایل‌های تبدیل شده در پوشه **خروجی** ذخیره می‌شوند.
+- فایل‌های تبدیل شده با فرمت JPG در پوشه **خروجی** ذخیره می‌شوند.
 
 ### ۲. اجرا از طریق سورس پایتون
 
